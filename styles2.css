@@ -27,18 +27,22 @@ main {
   grid-template-areas:
     "aside article article"
     "aside footer footer";
+  grid-gap: 30px;
 }
 aside {
+  grid-area: aside;
   padding: 30px;
   background-color: #f9d5e5;
   color: white;
 }
 article {
+  grid-area: article;
   padding: 30px;
   background-color: white;
   color: black;
 }
 footer {
+  grid-area: footer;
   padding: 30px;
   background-color:  #b8a9c9;
   color: white;
