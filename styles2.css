@@ -33,7 +33,7 @@ aside {
   grid-area: aside;
   padding: 30px;
   background-color: #f9d5e5;
-  color: white;
+  color: black;
 }
 article {
   grid-area: article;
