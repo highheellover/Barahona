@@ -13,8 +13,29 @@ nav {
 header {
   padding: 30px;
   height: 70%;
-  background-image: url('https://images.unsplash.com/photo-1470321386428-4b1668f21ad3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f9915990bc1c4afc8e216b7887bfb754&auto=format&fit=crop&w=1500&q=80');
+  background-image: url('https://images.unsplash.com/photo-1519415943484-9fa1873496d4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ca427af489b42f69370a86b910c5168f&auto=format&fit=crop&w=750&q=80');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+}
+H1 {
+  text-align: center;
+}
+main {
+  padding-top: 15px;
+}
+aside {
+  padding: 30px;
+  background-color: #f9d5e5;
+  color: white;
+}
+article {
+  padding: 30px;
+  background-color: white;
+  color: black;
+}
+footer {
+  padding: 30px;
+  background-color:  #b8a9c9
+  color: white;
 }
